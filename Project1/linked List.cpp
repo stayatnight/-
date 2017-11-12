@@ -40,6 +40,15 @@ void print(LNode*head)
 	}
 }
 //遍历单链表并输出
+int Get_Elem(int i,LNode*head)
+{
+
+
+
+
+
+}
+//按序号查找
 int main()
 {
 	LNode*head;
