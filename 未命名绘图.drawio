@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:49:52.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FWJJOzf2ocgogrXI0ycn" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T07:09:45.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UqF85IgLOzLalC-1NFDB" version="24.2.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2074" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="9999999999999900" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="9999999999999900" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_62RTePUEJuO3vsufu90-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-11" target="_62RTePUEJuO3vsufu90-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;appstartTask&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-18" target="_62RTePUEJuO3vsufu90-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-18" target="_62RTePUEJuO3vsufu90-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-18" target="_62RTePUEJuO3vsufu90-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-18" target="_62RTePUEJuO3vsufu90-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_62RTePUEJuO3vsufu90-18" target="_62RTePUEJuO3vsufu90-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-18" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-20" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;根据设备类型启动不同的线程&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="313" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;灯光线程&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;线灯或者/串口线程&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;按键线程&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;上下电重置线程&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;场测线程&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_62RTePUEJuO3vsufu90-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;mgiclink连接线程&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
